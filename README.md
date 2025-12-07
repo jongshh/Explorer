@@ -67,8 +67,8 @@
 ### 1\. 저장소 클론 (Clone)
 
 ```bash
-git clone https://github.com/본인아이디/explorer-ai-game.git
-cd explorer-ai-game
+git clone https://github.com/jongshh/Explorer/
+cd Explorer
 ```
 
 ### 2\. 패키지 설치 (Install)
@@ -108,7 +108,7 @@ npm run dev
 
 ## 📜 라이선스 (License)
 
-This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
+This project is licensed under the MIT License
 
 -----
 
