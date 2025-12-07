@@ -9,7 +9,7 @@
 [](https://openai.com/)
 [](https://www.google.com/search?q=LICENSE)
 
-[👉 **게임 플레이하기 (Play Now)**](https://www.google.com/search?q=https://%EB%B3%B8%EC%9D%B8%EC%95%84%EC%9D%B4%EB%94%94.github.io/explorer-ai-game/)
+[👉 **게임 플레이하기 (Play Now)**](https://jongshh.github.io/Explorer/)
 
 -----
 
